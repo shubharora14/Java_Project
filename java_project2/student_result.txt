@@ -1,0 +1,20 @@
+55,deca,100
+55,java,89
+55,maths,0
+55,dbms,55
+55,ec,100
+101,English,88
+101,deca,96
+101,Chemistry,96
+101,java,89
+101,maths,86
+101,Computer Science,98
+101,Mathematics,89
+101,dbms,85
+101,Physics,94
+101,ec,95
+102,deca,85
+102,java,96
+102,maths,92
+102,dbms,88
+102,ec,97

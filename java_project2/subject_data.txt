@@ -1,0 +1,5 @@
+java,100
+dbms,100
+maths,100
+ec,100
+deca,100
